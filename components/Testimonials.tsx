@@ -11,14 +11,12 @@ const Testimonials = (props: Props) => {
        Kind Words From{" "}
         <span className="text-purple"> Satisfied Clients</span>
       </h1>
-      <div className="flex flex-col items-center">
-        <div className="h-[50vh] md:h-[30rem] rounded-md flex flex-col antialiased items-center relative overflow-hidden">
+      <div className="flex flex-col items-center max-lg:mt-10">
         <InfiniteMovingCards
             items={testimonials}
             direction="right"
             speed="slow"
             />
-        </div>
       </div>
     </div>
   );
