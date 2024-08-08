@@ -18,7 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "I'm passionate about solving global problems",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Can't say this enough - 'I love clean code!'",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently developing an advanced Ecommerce Backend Service",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,36 +72,36 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "An Advanced Netflix Clone",
+    des: "Built The Client and Server Side of Netflix, the most comprehesive clone I've seen so far. Includes features like Authentication, Video tracking, ...",
+    img: "/netflix.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/express.png"],
+    link: "https://netflix-clone-amber-seven.vercel.app/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "API for an Ecommerce mobile App",
+    des: "Currently working on an advance version. Worked on major fintech features like advanced authentication, authorization, payment simulation and so on ...",
+    img: "/pinn.jpg",
+    iconLists: ["/ts.svg", "/express.png", "/node.png"],
+    link: "https://github.com/Obycodez55/Pinn-FX-API",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "Ninja API - A small scale API for organisational management",
+    des: "Currently working on improving it. Built with Nest, leveraging all the intricate features in Nest to build a scalable application",
+    img: "/p1.svg",
+    iconLists: ["/ts.svg", "/node.png", "/nestjs.svg"],
+    link: "https://github.com/Obycodez55/ninja-api",
   },
-  {
-    id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
-  },
+  // {
+  //   id: 4,
+  //   title: "Animated Apple Iphone 3D Website",
+  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+  //   img: "/p4.svg",
+  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+  //   link: "/ui.apple.com",
+  // },
 ];
 
 export const testimonials = [
@@ -173,29 +173,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Backend Software Engineer",
+    desc: "Specialize in developing robust, scalable backend solutions. Proficient in designing APIs, optimizing databases, and ensuring seamless frontend integration.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Fullsatck Software Engineer",
+    desc: "Expertise in creating full-stack solutions with robust backends and dynamic frontends. Proficient in managing development from conception to deployment for seamless integration and optimal performance.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Problem Solver",
+    desc: "Skilled in resolving complex technical challenges with innovative solutions. Proficient in troubleshooting, debugging, and optimizing code for high performance and reliability.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Team Player and Communicator",
+    desc: "Excel at collaborating with diverse teams to achieve project goals, ensuring clear communication and a positive work environment. Proficient in conveying complex technical concepts to team members, clients, and stakeholders.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    href: "https://github.com/Obycodez55"
   },
   {
     id: 2,
     img: "/twit.svg",
+    href: "https://x.com/obikoya_adebayo"
   },
   {
     id: 3,
     img: "/link.svg",
+    href: "https://www.linkedin.com/in/adebayo-obikoya-557b0626a/"
   },
 ];

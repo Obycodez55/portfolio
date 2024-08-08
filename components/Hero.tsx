@@ -29,11 +29,11 @@ const Hero = () => {
           </h2>
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl "
-            words="Transforming Concepts into Seamless User Experiences"
+            words="Powering Innovations through Scalable Solutions"
           />
 
           <p className="text-center md:tracking-wider text-sm md:text-lg mb-4 lg:text-2xl">
-            Hi, I&apos;m Adebayo, a Software Engineer based in Ibadan
+            Hi, I&apos;m Adebayo Obikoya, a Software Engineer based in Ibadan
           </p>
           <MagicButton title="Show my work" icon={<FaLocationArrow/>} position="right"/>
         </div>

@@ -58,7 +58,7 @@ export const BentoGridItem = ({
   }, [])
 
   const leftList = ["React.js", "Next.js", "Typescript"];
-  const rightList = ["Vue.js", "MongoDb", "NodeJS"];
+  const rightList = ["NestJS", "ExpressJS", "NodeJS"];
   const lottieOptions = {
     loop: copied,
     autoplay: copied,

@@ -17,7 +17,7 @@ const Testimonials = (props: Props) => {
           speed="slow"
         />
 
-        <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
+        {/* <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
           {companies.map(({id, img, name, nameImg}, idx) => (
             <div key={id} className="flex md:max-w-60 max-w-32 gap-2">
               <img 
@@ -32,7 +32,7 @@ const Testimonials = (props: Props) => {
               />
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
     </div>
   );
