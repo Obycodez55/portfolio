@@ -76,7 +76,7 @@ export const projects = [
     des: "Built The Client and Server Side of Netflix, the most comprehesive clone I've seen so far. Includes features like Authentication, Video tracking, ...",
     img: "/netflix.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/express.png"],
-    link: "https://netflix-clone-amber-seven.vercel.app/",
+    link: "https://netflix-psi-nine.vercel.app/",
   },
   {
     id: 2,
