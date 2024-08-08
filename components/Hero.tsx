@@ -35,7 +35,9 @@ const Hero = () => {
           <p className="text-center md:tracking-wider text-sm md:text-lg mb-4 lg:text-2xl">
             Hi, I&apos;m Adebayo Obikoya, a Software Engineer based in Ibadan
           </p>
+          <a href="#projects">
           <MagicButton title="Show my work" icon={<FaLocationArrow/>} position="right"/>
+          </a>
         </div>
       </div>
     </div>
