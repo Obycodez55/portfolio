@@ -118,7 +118,7 @@ export const testimonials = [
       "Adebayo is an outstanding collaborator who consistently strives for excellence. His contributions to the backend of my project showcased not only his technical skills but also his remarkable team spirit and leadership abilities. He effectively managed tasks and met deadlines, making him an invaluable asset to any team.",
     name: "Ifeadi John Kennedy",
     title: "Frontend Engineer | CEO of The Seven",
-    profile: "/kennedy.jpg",
+    profile: "/kennedy.png",
     link: "https://www.linkedin.com/in/kennedyifeadi/"
   },
   // {
