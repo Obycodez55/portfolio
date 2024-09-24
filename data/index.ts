@@ -115,7 +115,7 @@ export const testimonials = [
   },
   {
     quote:
-      "Adebayo is an outstanding collaborator who consistently strives for excellence. His contributions to the backend of my project showcased not only his technical skills but also his remarkable team spirit and leadership abilities. He effectively managed tasks and met deadlines, making him an invaluable asset to any team.",
+      "Adebayo Obikoya is a dedicated and passionate team player who maintains unwavering focus on every task. He is goal-driven and consistently delivers success, proving his reliability across multiple collaborative projects by consistently meeting deadlines. His backend expertise is exceptional, effortlessly transitioning from database construction to the development of comprehensive backend systems with precision and skill.",
     name: "Ifeadi John Kennedy",
     title: "Frontend Engineer | CEO of The Seven",
     profile: "/kennedy.png",
